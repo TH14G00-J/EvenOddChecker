@@ -27,3 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/target/classes/entities/EvenOddChecker.class
+/target/test-classes/EvenOddCheckerTest.class
+/target/classes/Main.class
